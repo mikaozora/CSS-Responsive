@@ -1,4 +1,4 @@
-# --------------------------CSS-Responsive------------------------
+# --------------------------CSS-Responsive-----------------------
 ![Alt text](https://github.com/mikaozora/CSS-Responsive/blob/master/1.png)
 # ----------------------------------------------------------------
 ![Alt text](https://github.com/mikaozora/CSS-Responsive/blob/master/2.png)
